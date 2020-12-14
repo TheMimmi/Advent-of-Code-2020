@@ -5,7 +5,7 @@ using System.Linq;
 
 namespace day1
 {
-    public class methods
+    public class tasks
     {
         public static void Part1()
         {
