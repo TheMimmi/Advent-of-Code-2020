@@ -5,8 +5,8 @@ namespace day1
     {
         static void Main(string[] args)
         {
-            methods.Part1();
-            methods.Part2();
+            tasks.Part1();
+            tasks.Part2();
         }
     }
 }
